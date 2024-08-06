@@ -136,5 +136,5 @@ Kullanıcılar bir projeden bir dosyanın snapshot'ını değil tüm projeyi al�
 - git push
 - yaptığımda hala sancaktepe grubunun reposuna push luyor
 - engellemek için
-- git remote set-url origin https://github.com/sancaktepe-staj/version-control-system
+- git remote set-url origin https://github.com/alpkirisci/version-control-system
 - deniyorum
